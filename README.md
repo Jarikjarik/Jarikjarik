@@ -3,7 +3,7 @@
 Backend engineer focused on building production-like services: secure APIs, clean architecture, database migrations, containerized environments and CI.
 
 📍 Russia (Sterlitamak) • Remote / Relocation  
-✉️ yaroslavchekashkin@mail.ru • 💬 https://t.me/Jarikjarik  
+✉️ yaroslavchekashkin@mail.ru • 💬 https://t.me/Jarikjarik1  
 
 ---
 
